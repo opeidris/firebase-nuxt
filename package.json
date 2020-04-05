@@ -1,0 +1,19 @@
+{
+  "name": "firebase-nuxt",
+  "version": "1.0.0",
+  "description": "Practicing integrating firebase with the nuxt.js framework",
+  "author": "thisisopeidris",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^1.0.0"
+  }
+}
